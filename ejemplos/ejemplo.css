@@ -1,0 +1,23 @@
+p {
+  color: white;
+}
+.box .recuadro1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 150px;
+  height: 150px;
+  background: #ffff00;
+  color: var(--color-hard);
+  margin: 10px auto;
+}
+.box .recuadro2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 150px;
+  height: 150px;
+  background: #ff5500;
+  color: var(--color-light);
+  margin: 10px auto;
+}
